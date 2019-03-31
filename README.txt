@@ -1,1 +1,1 @@
-# kurbagalar
+# kopekler ve kurbagalar
