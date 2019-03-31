@@ -1,1 +1,1 @@
-This branch is about learning
+# kopekler ve kurbagalar
